@@ -1,6 +1,0 @@
-component: website
-name: bandersnatch-website
-stage: dev
-inputs:
-    src:
-        src: .
